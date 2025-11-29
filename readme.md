@@ -1,12 +1,4 @@
 
-<style>
-  body { direction: rtl; text-align: right; font-family: Tahoma, sans-serif; }
-  pre { direction: ltr; text-align: left; background-color: #f5f5f5; padding: 8px; border-radius: 5px; }
-  table { direction: rtl; text-align: right; border-collapse: collapse; }
-  table, th, td { border: 1px solid black; padding: 5px; }
-  .small-header{color:red}
-</style>
-
 # درسنامه لیست‌های پیوندی (Linked Lists)
 
 ---
